@@ -1,0 +1,24 @@
+#found { padding-top: 5px; padding-bottom: 8px;}
+#status {
+  padding: 1px;
+  padding-left:5px;
+  padding-right:5px;
+  color: #fff;
+  background: #ccc;
+}
+
+#status.fail {
+  background: #c00;
+}
+
+#status.success {
+  background: #0c0;
+}
+
+#status.offline {
+  background: #c00;
+}
+
+#status.online {
+  background: #0c0;
+}
